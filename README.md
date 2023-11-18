@@ -6,4 +6,4 @@ IF YOU DID CHANGE IT, REINSTALL STEAM BEFORE RUNNING THIS CODE.
 
 MAKE SURE YOU HAVE STEAM FULLY CLOSED BEFORE RUNNING ANY CODE.
 
-CREDITS: Wayback Machine (https://archive.org/web) - Providing abandened Steam client download links
+CREDITS: Wayback Machine (https://archive.org/web) - Providing abandoned Steam client download links
